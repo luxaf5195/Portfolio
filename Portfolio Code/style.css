@@ -1,0 +1,41 @@
+body{
+    font-family: 'open sans';
+}
+li{
+    display: inline;
+}
+header{
+    background-color: #FFFDD0;
+}
+nav{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+footer{
+    background-color: #FFFDD0;
+    text-align: center;
+}
+.portfolio{
+    text-align: end;
+}
+nav>div>a{
+    display: block;
+}
+.lolla{
+    width: 30rem;
+    max-width: 100%;
+    align-items: end;
+}
+.about img{
+    width: 30rem;
+    max-width: 100%;
+}
+.lolla{
+    text-align: right;
+}
+.credentials{
+    text-align: center;
+}
