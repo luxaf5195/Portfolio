@@ -23,6 +23,8 @@ footer{
 }
 nav>div>a{
     display: block;
+    font-size: larger;
+    padding: 1rem;
 }
 .lolla{
     width: 30rem;
@@ -46,8 +48,13 @@ nav>div>a{
 .tyler{
     width: 20rem;
     max-width: 100%; 
+    float: inline-end;
 }
 .doom{
     width: 20rem;
     max-width: 100%;
+    float: inline-end;
+}
+p{
+    font-size: larger;
 }
